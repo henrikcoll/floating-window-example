@@ -21,3 +21,12 @@
 	background-color: red;
 	color: white;
 }
+
+.window-header {
+	display: flex;
+	flex-direction: row;
+}
+
+.window-header-title {
+	flex-grow: 1;
+}
